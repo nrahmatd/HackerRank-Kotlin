@@ -7,6 +7,7 @@ import kotlin.math.abs
  *
  * The function is expected to return an INTEGER.
  * The function accepts 2D_INTEGER_ARRAY arr as parameter.
+ * Reference : https://www.hackerrank.com/challenges/diagonal-difference/problem
  */
 
 fun diagonalDifference(arr: Array<Array<Int>>): Int {
