@@ -2,7 +2,10 @@ package nrahmatd.hackerrank.verybigsum
 
 import java.util.Scanner
 
-// Complete the aVeryBigSum function below.
+/*
+ * Complete the aVeryBigSum function below.
+ * Reference : https://www.hackerrank.com/challenges/a-very-big-sum/problem
+ */
 fun aVeryBigSum(ar: Array<Long>): Long {
     return ar.sum()
 }
