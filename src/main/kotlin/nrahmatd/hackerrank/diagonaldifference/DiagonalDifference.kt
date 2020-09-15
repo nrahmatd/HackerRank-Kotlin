@@ -25,8 +25,14 @@ fun diagonalDifference(arr: Array<Array<Int>>): Int {
 }
 
 fun main() {
-    val n = readLine()!!.trim().toInt()
+    println("Sample Input :\n" +
+            "3\n" +
+            "11 2 4\n" +
+            "4 5 6\n" +
+            "10 8 -12")
+    println("Input matrix : ")
 
+    val n = readLine()!!.trim().toInt()
     val arr = Array<Array<Int>>(n) { Array<Int>(n) { 0 } }
 
     for (i in 0 until n) {

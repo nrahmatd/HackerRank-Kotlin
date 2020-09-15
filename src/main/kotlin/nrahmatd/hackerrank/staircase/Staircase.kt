@@ -4,6 +4,8 @@ import java.util.Scanner
 
 fun main() {
     val scan = Scanner(System.`in`)
+    println(" ===Sample Input===\n" +
+            " 6")
     print("Input data: ")
     val n = scan.nextLine().trim().toInt()
 

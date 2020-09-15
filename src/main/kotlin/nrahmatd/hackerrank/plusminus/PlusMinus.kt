@@ -6,6 +6,11 @@ import java.util.Scanner
 fun main() {
     val scan = Scanner(System.`in`)
 
+    println("Sample Input\n" +
+            "\n" +
+            "6\n" +
+            "-4 3 -9 0 4 1")
+    println("Input data :")
     val n = scan.nextLine().trim().toInt()
 
     val arr = scan.nextLine().split(" ").map{ it.trim().toInt() }.toTypedArray()
