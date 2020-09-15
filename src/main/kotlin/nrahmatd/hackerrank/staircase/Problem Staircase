@@ -26,7 +26,7 @@ staircase has the following parameter(s):
  A single integer, , denoting the size of the staircase.
 
  ===Constraints===
- 0 < n < 100
+ 0 < n <= 100
 
  ===Output Format===
  Print a staircase of size n using # symbols and spaces.
