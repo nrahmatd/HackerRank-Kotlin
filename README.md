@@ -1,2 +1,2 @@
-# hackerrank_kotlin
+# Hackerrank Kotlin
 This repos contains my learning code about Kotlin at Hackerrank. I used IntelliJ IDEA Community for running this project.
