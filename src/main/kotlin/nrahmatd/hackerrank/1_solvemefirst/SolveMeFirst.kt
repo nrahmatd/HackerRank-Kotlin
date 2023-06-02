@@ -1,4 +1,4 @@
-package nrahmatd.hackerrank.solvemefirst
+package nrahmatd.hackerrank.`1_solvemefirst`
 
 import java.util.Scanner
 

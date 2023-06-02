@@ -1,4 +1,4 @@
-package nrahmatd.hackerrank.verybigsum
+package nrahmatd.hackerrank.`4_verybigsum`
 
 import java.util.Scanner
 

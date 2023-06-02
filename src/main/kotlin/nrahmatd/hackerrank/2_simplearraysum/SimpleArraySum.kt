@@ -1,4 +1,4 @@
-package nrahmatd.hackerrank.simplearraysum
+package nrahmatd.hackerrank.`2_simplearraysum`
 
 import java.util.Scanner
 

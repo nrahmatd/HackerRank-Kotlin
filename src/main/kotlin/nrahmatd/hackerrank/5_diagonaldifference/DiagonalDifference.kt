@@ -1,4 +1,4 @@
-package nrahmatd.hackerrank.diagonaldifference
+package nrahmatd.hackerrank.`5_diagonaldifference`
 
 import kotlin.math.abs
 

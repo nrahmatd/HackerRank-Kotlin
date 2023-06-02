@@ -1,4 +1,4 @@
-package nrahmatd.hackerrank.plusminus
+package nrahmatd.hackerrank.`6_plusminus`
 
 import java.text.DecimalFormat
 import java.util.Scanner

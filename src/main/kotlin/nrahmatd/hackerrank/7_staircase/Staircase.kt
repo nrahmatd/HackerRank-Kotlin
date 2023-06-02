@@ -1,4 +1,4 @@
-package nrahmatd.hackerrank.staircase
+package nrahmatd.hackerrank.`7_staircase`
 
 import java.util.Scanner
 

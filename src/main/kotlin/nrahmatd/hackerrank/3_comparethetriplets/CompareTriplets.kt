@@ -1,4 +1,4 @@
-package nrahmatd.hackerrank.comparethetriplets
+package nrahmatd.hackerrank.`3_comparethetriplets`
 
 /*
  * Complete the compareTriplets function below.
