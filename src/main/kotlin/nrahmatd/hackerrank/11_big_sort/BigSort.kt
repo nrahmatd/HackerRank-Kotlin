@@ -9,6 +9,10 @@ package nrahmatd.hackerrank.`11_big_sort`
 
 fun bigSorting(unsorted: Array<String>): Array<String> {
     // Write your code here
+
+    /** Own Code **/
+
+    /**
     val ints = unsorted.map { it.toBigInteger() }.toTypedArray()
 
     ints.sort()
@@ -16,6 +20,18 @@ fun bigSorting(unsorted: Array<String>): Array<String> {
     val strs = ints.map { it.toString() }.toTypedArray()
 
     return strs
+    **/
+
+    /** Update for effective runtime **/
+    unsorted.sortWith(Comparator { a, b ->
+        if (a.length == b.length) {
+            a.compareTo(b)
+        } else {
+            a.length - b.length
+        }
+    })
+
+    return unsorted
 }
 
 fun main(args: Array<String>) {
